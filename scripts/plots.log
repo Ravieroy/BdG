@@ -1,0 +1,12 @@
+27-Feb-24 04:31:29  - INFO - Starting the program to make the plots.
+27-Feb-24 04:31:29  - INFO - Collating data from directory: ../post-processing/
+27-Feb-24 04:31:29  - INFO - Data collated successfully
+27-Feb-24 04:31:29  - INFO - update_collated_files = False
+27-Feb-24 04:31:29  - INFO - Making probability distribution plots for order parameter
+27-Feb-24 04:31:30  - INFO - P(Δ) Vs Δ plotted successfully in directory: ../images/
+27-Feb-24 04:31:30  - INFO - Making probability distribution plots for average density
+27-Feb-24 04:31:30  - INFO - P(n) Vs n plotted successfully in directory: ../images/
+27-Feb-24 04:31:30  - INFO - Making plot for energy gap and superconducting order parameter gap
+27-Feb-24 04:31:30  - INFO - Energy gap plotted successfully in directory: ../images/
+27-Feb-24 04:31:30  - INFO - Making DOS plot
+27-Feb-24 04:31:52  - INFO - DOS plotted successfully in directory: ../images/
